@@ -1,9 +1,7 @@
 
-
+import MainContainer from "./components/MainContainer";
 function App() {
-  return <div className=" m-4">
-  hi
-  </div>;
+  return (<MainContainer/>)
 }
 
 export default App;
