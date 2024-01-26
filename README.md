@@ -4,4 +4,8 @@
 
 ## installed Bootstrap
 
-## used Context-API to manage Input Data & States 
+## used Context-API to manage Input Data & States
+
+## deployed on netlify
+
+- https://expression-engine-app-awais.netlify.app/
