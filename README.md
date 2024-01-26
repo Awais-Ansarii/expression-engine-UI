@@ -2,4 +2,4 @@
 
 ## Getting Started with Create React App
 
-# installed Bootstrap
+## installed Bootstrap
